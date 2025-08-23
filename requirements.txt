@@ -1,4 +1,5 @@
 numpy
 matplotlib
 streamlit
-
+opencv-python
+mediapipe
